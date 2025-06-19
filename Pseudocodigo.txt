@@ -1,0 +1,15 @@
+INÍCIO
+
+Pessoa A tem 60kg
+Pessoa B tem 65kg
+Pessoa C tem 80kg
+
+A e B atravessam o rio
+A volta com o barco
+C atravessa sozinho
+B volta com o barco 
+A e B atravessam novamente
+
+Todos atravessaram o rio sem afundar o barco.
+
+FIM
